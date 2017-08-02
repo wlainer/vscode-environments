@@ -1,0 +1,12 @@
+# Data
+Backups/
+Cache/
+CachedData/
+Local Storage/
+Cookies
+Cookies-journal
+Preferences
+storage.json
+
+# Extensions
+extensions/

@@ -1,0 +1,2 @@
+#react
+code --extensions-dir ~/vscode/react/extensions --user-data-dir ~/vscode/react/data
