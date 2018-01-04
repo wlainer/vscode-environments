@@ -1,2 +1,9 @@
 #react
 code --extensions-dir ~/vscode/react/extensions --user-data-dir ~/vscode/react/data
+
+#angular
+code --extensions-dir ~/vscode/angular/extensions --user-data-dir ~/vscode/angular/data
+
+
+#vue
+code --extensions-dir ~/vscode/vue/extensions --user-data-dir ~/vscode/vue/data

@@ -1,0 +1,10 @@
+[2018-01-03 21:53:19.630] [exthost1] [info] extension host started
+[2018-01-03 21:53:19.643] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-01-03 21:53:19.643] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/emmet/out/extension
+[2018-01-03 21:53:19.701] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-01-03 21:53:19.701] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/git/out/main
+[2018-01-03 21:53:19.773] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-01-03 21:53:19.773] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/merge-conflict/out/extension
+[2018-01-03 21:53:19.789] [exthost1] [info] eager extensions activated
+[2018-01-03 21:53:19.791] [exthost1] [info] ExtensionService#_doActivateExtension lukehoban.Go {"startup":false,"activationEvent":"onLanguage:go"}
+[2018-01-03 21:53:19.791] [exthost1] [info] ExtensionService#loadCommonJSModule /home/wlainer/vscode/go/extensions/lukehoban.go-0.6.70/out/src/goMain

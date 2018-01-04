@@ -1,0 +1,11 @@
+[2018-01-03 21:51:42.345] [renderer1] [error] Cannot read property '$isError' of null: TypeError: Cannot read property '$isError' of null
+    at e.$onUnexpectedError (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2961:856)
+    at t.e.invoke (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3000:378)
+    at e._invokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2590:277)
+    at e._receiveOneMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2589:983)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2589:10
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2590:913
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:159:872)
+    at Socket.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:281:487)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)

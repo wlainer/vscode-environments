@@ -1,5 +1,4 @@
 {
-
     "editor.fontFamily": "Fira Code",
     "editor.fontSize": 15,
     "editor.fontLigatures": true,
@@ -12,5 +11,6 @@
     "files.eol": "\n",
     "workbench.startupEditor": "newUntitledFile",
     "window.zoomLevel": 0,
-    "vim.disableAnnoyingNeovimMessage": true
+    "vim.disableAnnoyingNeovimMessage": true,
+    "vsicons.projectDetection.autoReload": true
 }
